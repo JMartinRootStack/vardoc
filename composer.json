@@ -38,7 +38,6 @@
     "drupal/varbase_core": "^9.0.53",
     "drupal/varbase_faqs": "~9.0",
     "drupal/fontawesome": "~2.0",
-    "drupal/better_normalizers": "~1.0",
     "drupal/votingapi": "~3.0",
     "drupal/votingapi_widgets": "~1.0",
     "drupal/flag": "~4.0",
@@ -60,7 +59,7 @@
   },
   "require-dev": {
     "drupal/core-dev": "~10.0",
-    "drush/drush": "~11.0",
+    "drush/drush": "~12.0",
     "drupal/drupal-extension": "~4.0",
     "emuse/behat-html-formatter": "^0.2.0",
     "drevops/behat-screenshot": "~1.0"
