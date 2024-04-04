@@ -41,7 +41,7 @@
     "drupal/votingapi": "~3.0",
     "drupal/votingapi_widgets": "~1.0",
     "drupal/flag": "~4.0",
-    "drupal/sharethis": "~2.0",
+    "drupal/sharethis": "^3.0",
     "drupal/menu_link_attributes": "~1.0",
     "drupal/svg_image": "~1.0",
     "drupal/search_api_autocomplete": "~1.0",
@@ -52,7 +52,7 @@
     "drupal/group_members_extra": "~1.0",
     "drupal/ginvite": "~2.0",
     "drupal/grequest": "~1.0",
-    "drupal/group_notify": "~1.0",
+    "drupal/group_notify": "~2.0",
     "drupal/group_taxonomy": "~1.0",
     "drupal/entitygroupfield": "~1.0",
     "npm-asset/jquery-bar-rating": "~1.0"
