@@ -1,14 +1,14 @@
 {
-  "name": "vardot/vardoc",
-  "description": "Vardoc: Knowledge Base System and Documentation Site",
+  "name": "jmartin/vardoc",
+  "description": "Vardoc: Knowledge Base System and Documentation Site Fork for Drupal 10 upgrade",
   "type": "drupal-profile",
   "license": "GPL-2.0-or-later",
   "minimum-stability": "dev",
   "prefer-stable": true,
   "authors": [
     {
-      "name": "Vardot",
-      "homepage": "https://www.drupal.org/vardot",
+      "name": "jmartin",
+      "homepage": "https://github.com/JMartinRootStack",
       "role": "Maintainer"
     }
   ],
@@ -63,6 +63,9 @@
     "drupal/drupal-extension": "~4.0",
     "emuse/behat-html-formatter": "^0.2.0",
     "drevops/behat-screenshot": "~1.0"
+  },
+  "replace": {
+    "vardot/vardoc": "5.0.*"
   },
   "config": {
     "bin-dir": "bin/",
@@ -164,10 +167,6 @@
       "drupal/core": "-p2"
     },
     "patches": {
-      "drupal/core": {
-        "Issue #3266057: Allow profiles to define a base/parent profile [continue of #1356276]":
-        "https://www.drupal.org/files/issues/2023-03-02/3266057-108-9-5-x.patch"
-      },
       "drupal/group": {
         "Issue #3161194: The '' entity type does not exist":
         "https://www.drupal.org/files/issues/2021-04-08/3161194_the_entity_type_does_not_exist_17_2.patch"
