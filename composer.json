@@ -65,7 +65,7 @@
     "drevops/behat-screenshot": "~1.0"
   },
   "replace": {
-    "vardot/vardoc": "5.0.*"
+    "vardot/vardoc": "5.0.x-dev"
   },
   "config": {
     "bin-dir": "bin/",
