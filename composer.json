@@ -32,7 +32,7 @@
     "cweagans/composer-patches": "~1.0",
     "drupal/core-composer-scaffold": "~10.0",
     "webflo/drupal-finder": "^1",
-    "drupal/core": "~10.0",
+    "drupal/core": "^9.1.4",
     "vardot/entity-definition-update-manager": "~1.0",
     "vardot/varbase": "^10",
     "drupal/varbase_core": "~9.1",
