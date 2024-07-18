@@ -12,10 +12,6 @@
       "role": "Maintainer"
     }
   ],
-  "support": {
-    "issues": "http://drupal.org/project/issues/vardoc",
-    "source": "http://cgit.drupalcode.org/vardoc"
-  },
   "repositories": {
     "drupal": {
       "type": "composer",
@@ -115,8 +111,7 @@
     "drupal-scaffold": {
       "allowed-packages": [
         "drupal/core",
-        "vardot/varbase",
-        "vardot/vardoc"
+        "vardot/varbase"
       ],
       "gitignore": true,
       "locations": {
