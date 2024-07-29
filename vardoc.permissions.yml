@@ -1,0 +1,40 @@
+# These must find their own place
+edit own vote on node:book:field_rating:
+  title: ''
+  description: ''
+search content:
+  title: ''
+  description: ''
+use search_api_autocomplete for book_search:
+  title: ''
+  description: ''
+view media:
+  title: ''
+  description: ''
+view post access counter:
+  title: ''
+  description: ''
+view terms in lesson_learning_topic:
+  title: ''
+  description: ''
+view terms in project:
+  title: ''
+  description: ''
+view terms in section:
+  title: ''
+  description: ''
+view terms in sme_category_:
+  title: ''
+  description: ''
+view terms in tools:
+  title: ''
+  description: ''
+view terms in topic:
+  title: ''
+  description: ''
+view terms in vardot_tools:
+  title: ''
+  description: ''
+vote on node:book:field_rating:
+  title: ''
+  description: ''
